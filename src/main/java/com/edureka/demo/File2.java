@@ -3,9 +3,9 @@ package com.edureka.demo;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
-public class Application {
+public class File2 {
 
-	public static void main(String[] args) {
+	public static void File2(String[] args) {
 		SpringApplication.run(Application.class, args);
 
 	}
