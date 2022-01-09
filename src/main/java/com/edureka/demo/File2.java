@@ -7,7 +7,7 @@ public class File2 {
 
 	public static void File2(String[] args) {
 		SpringApplication.run(Application.class, args);
-
+//File2
 	}
 
 }
