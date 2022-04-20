@@ -18,6 +18,8 @@ File1 {
 		///ccc
 
 		///ddd
+
+		///yyyy
 	}
 
 }
