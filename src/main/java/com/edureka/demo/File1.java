@@ -16,6 +16,8 @@ File1 {
 		///aaa
 		///bbb
 		///ccc
+
+		///ddd
 	}
 
 }
